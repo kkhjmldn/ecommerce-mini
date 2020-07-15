@@ -1,4 +1,4 @@
-# cuppertinoApp
+# Ecommerce Mini
 
 A new Flutter project. Clone Cuppertino Ecommerce App from Flutter Official website
 
