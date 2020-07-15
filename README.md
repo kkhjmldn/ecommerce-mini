@@ -1,6 +1,6 @@
 # cuppertinoApp
 
-A new Flutter project.
+A new Flutter project. Clone Cuppertino Ecommerce App from Flutter Official website
 
 ## Getting Started
 
